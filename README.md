@@ -8,7 +8,7 @@ This project covers my technical contributions to the 2018-2019 Washington State
 
 ## Background
 
-- This was a testing rocket the club built to attempt a new air brake system
+- Testing rocket the club built to attempt a new air brake system
 - An air brake controls ascent of rocket by increasing drag with a feedback algorithm
 
 ## Directory
